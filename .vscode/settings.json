@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.project.sourcePaths": [],
+    "java.configuration.runtimes": [],
+    "files.exclude": {
+    "**/node_modules": true
+}
+
+}
